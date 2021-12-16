@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 
-<img src="![image one](https://user-images.githubusercontent.com/74091147/146378137-e5db63e2-99c6-4383-95df-6f0047d0a5ef.png)" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/74091147/146378137-e5db63e2-99c6-4383-95df-6f0047d0a5ef.png" width="200" height="400" />
 
 
 
